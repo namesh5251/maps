@@ -1,0 +1,10 @@
+.admin-panel {
+  background-color: rgba(175, 179, 179, 0.482);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.admin-panel .firstdiv {
+  width: 60%;
+}

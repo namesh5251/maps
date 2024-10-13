@@ -1,0 +1,15 @@
+.profile-card {
+  background-color: rgba(76, 79, 79, 0.65);
+  /* width: 50%;
+  display: flex; */
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border-radius: 2rem;
+  box-shadow: inset 2px 1px 2px 2px rgb(166, 167, 168);
+}
+.profile {
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
